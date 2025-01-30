@@ -1,0 +1,2 @@
+### Exploring Mental Health Data
+Este projeto apresenta um modelo de machine learning desenvolvido para prever a ocorrência de depressão com base em dados clínicos. Utilizei um conjunto de dados contendo informações como Gênero, Idade, Profissional ou Estudante, Pressão Acadêmica, Pressão no Trabalho, CGPA, Satisfação com os Estudos, Satisfação com o Trabalho, Duração do Sono, Hábitos Alimentares, Grau Acadêmico, Já teve pensamentos suicidas, Horas de Trabalho/Estudo, Estresse Financeiro, Histórico Familiar de Doenças Mentais.
